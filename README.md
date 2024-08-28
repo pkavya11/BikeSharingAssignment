@@ -4,7 +4,7 @@
 
 ## Table of Contents
 * [General Info](Python Notebook for Linear Regression Algorithm)
-* [Technologies Used](python)
+* [Technologies Used] (python)
 * [Conclusions](The data is very fit in for Multiple Regression Algorithm built in this project)
 * [Acknowledgements](No outliers in the data and null values are important)
 
